@@ -37,10 +37,16 @@
 <!-- ===== SOCIALS - REACH ME OUT ===== -->
 ## Feel free to contact me ⚡
 <div>
-  
-  [<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" target="_blank">](https://twitter.com/thiagorochatr1)
-  <a href="mailto:thiagord2016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a> 
-  [<img src="https://img.shields.io/badge/-LinkedIn-006699?style=flat-square&logo=Linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/thiagorochatr/)
-  [<img src="https://img.shields.io/badge/-Instagram-82008F?style=flat-square&logo=Instagram&logoColor=white" target="_blank">](https://www.instagram.com/thiagorochatr/)
-  
+  <a href="https://twitter.com/thiagorochatr1" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
+  </a> 
+  <a href="mailto:thiagord2016@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/thiagorochatr/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-006699?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/thiagorochatr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-82008F?style=flat-square&logo=Instagram&logoColor=white">
+  </a> 
 </div>
