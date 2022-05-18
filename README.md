@@ -16,6 +16,8 @@
 <!-- ===== MOST USED LANGUAGES ===== -->
 <div align="center">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorochatr&layout=compact&langs_count=10&theme=dracula"/>
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorochatr&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
 <br>
