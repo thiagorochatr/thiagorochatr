@@ -5,7 +5,7 @@
   
   - ⚙️ Information Systems student at Cefet/RJ (Federal Center of Technological Education/Rio de Janeiro)
   
-  - 👨‍💻 Currently studying ReactJS & TypeScript
+<!--  - 👨‍💻 Currently studying ReactJS & TypeScript -->
   
   - ⛓️󠁭󠁨 Web3 & Blockchain enthusiast 🏴
   
