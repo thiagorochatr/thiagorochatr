@@ -36,7 +36,7 @@
 </div>
 
 <!-- ===== SOCIALS - REACH ME OUT ===== -->
-## Feel free to contact me ⚡
+## Contact⚡
 <div>
   <a href="https://www.linkedin.com/in/thiagorochatr/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-006699?style=flat-square&logo=Linkedin&logoColor=white" target="_blank">
