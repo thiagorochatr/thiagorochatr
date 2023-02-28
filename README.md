@@ -5,8 +5,6 @@
   
   - ⚙️ Information Systems student at Cefet/RJ (Federal Center of Technological Education/Rio de Janeiro)
   
-<!--  - 👨‍💻 Currently studying ReactJS & TypeScript -->
-  
   - ⛓️󠁭󠁨 Web3 & Blockchain enthusiast 🏴
   
   - 🌎 Solving real problems through coding
@@ -21,21 +19,6 @@
 </div>
 
 <br>
-
-<div style="display: inline_block" align="center">
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="react" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="nextjs" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" />
-    <img align="center" alt="tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" />
-  <img align="center" alt="html5" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
-  <img align="center" alt="css3" height="30"     width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
-  <img align="center" alt="java" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="c" height="30"              width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
-  <img align="center" alt="git" height="30"    width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-</div>
 
 <!-- ===== LANGUAGES - EMOJIS ===== -->
 ### Frontend
