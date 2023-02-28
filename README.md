@@ -5,7 +5,7 @@
   
   - ⚙️ Information Systems student at Cefet/RJ (Federal Center of Technological Education/Rio de Janeiro)
   
-  - ⛓️󠁭󠁨 Web3 & Blockchain enthusiast 🏴
+  - ⛓️󠁭󠁨 Blockchain  🏴 Web3
   
   - 🌎 Solving real problems through coding
   
@@ -22,12 +22,12 @@
 
 <!-- ===== LANGUAGES - EMOJIS ===== -->
 ### Frontend
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
   <img
     align="center"
     alt="nextjs"
     height="30"  width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
   /> 
   <img
     align="center"
@@ -55,14 +55,21 @@
   />
 </div>
 
+<br>
+
 ### Web3
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
   <img
     align="center"
     alt="ethereum"
     height="30" width="40"
     src="imgs/ethereum-logo.svg"
-    style="max-width: 100%"
+  />
+  <img
+    align="center"
+    alt="Chainlink"
+    height="30" width="40"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg"
   />
   <img
     align="center"
@@ -74,26 +81,26 @@
     align="center"
     alt="polygon"
     height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg"
   />
   <img
     align="center"
     alt="hardhat"
     height="30" width="40"
     src="imgs/hardhat-logo.svg"
-    style="max-width: 100%"
   />
-    <img
+  <img
     align="center"
     alt="foundry"
     height="30" width="40"
     src="imgs/foundry-logo.svg"
-    style="max-width: 100%"
   />
 </div>
 
+<br>
+
 ### Backend | Infrastructure
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
   <img
     align="center"
     alt="node"
