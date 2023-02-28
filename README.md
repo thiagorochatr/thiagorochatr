@@ -42,9 +42,15 @@
 <div style="display: inline_block" align="center">
   <img
     align="center"
-    alt="javascript"
-    height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    alt="nextjs"
+    height="30"  width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"
+  /> 
+  <img
+    align="center"
+    alt="reactjs"
+    height="30"  width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   />
   <img
     align="center"
@@ -54,38 +60,27 @@
   />
   <img
     align="center"
-    alt="react"
-    height="30"  width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    alt="javascript"
+    height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
-  <img
-    align="center"
-    alt="nextjs"
-    height="30"  width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"
-  /> 
   <img
     align="center"
     alt="tailwindcss"
     height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
   />
-  <img
-    align="center"
-    alt="html5"
-    height="30"  width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"
-  />
-  <img
-    align="center"
-    alt="css3"
-    height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"
-  />
 </div>
 
 ### Web3
 <div style="display: inline_block" align="center">
+  <img
+    align="center"
+    alt="ethereum"
+    height="30" width="40"
+    src="imgs/ethereum-logo.svg"
+    style="max-width: 100%"
+  />
   <img
     align="center"
     alt="solidity"
@@ -99,13 +94,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg"
   />
   <img
-    align="center"
-    alt="ethereum"
-    height="30" width="40"
-    src="imgs/ethereum-logo.svg"
-    style="max-width: 100%"
-  />
-    <img
     align="center"
     alt="hardhat"
     height="30" width="40"
