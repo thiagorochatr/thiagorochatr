@@ -54,7 +54,14 @@
   <img align="center" alt="solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" />
   <img align="center" alt="polygon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" />
           
-<!-- Ethereum, Hardhat, Foundry -->
+  <!-- Ethereum, Hardhat, Foundry -->
+
+  <img
+    src="imgs/ethereum-logo.svg"
+    alt="Ethereum" height="48px" 
+    align="left"
+    style="max-width: 100%; margin-right:40px;"
+  /> 
 
   
   
