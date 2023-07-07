@@ -67,15 +67,15 @@
   />
   <img
     align="center"
-    alt="Chainlink"
-    height="30" width="40"
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg"
-  />
-  <img
-    align="center"
     alt="solidity"
     height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg"
+  />
+  <img
+    align="center"
+    alt="Chainlink"
+    height="30" width="40"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg"
   />
   <img
     align="center"
