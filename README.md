@@ -5,7 +5,7 @@
   
   - ⚙️ Information Systems student at Cefet/RJ (Federal Center of Technological Education/Rio de Janeiro)
   
-  - ⛓️󠁭󠁨 Blockchain  🏴 Web3
+  - ⛓️󠁭󠁨 Blockchain & Web3
   
   - 🌎 Solving real problems through coding
   
