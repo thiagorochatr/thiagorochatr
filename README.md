@@ -85,15 +85,15 @@
   />
   <img
     align="center"
-    alt="hardhat"
-    height="30" width="40"
-    src="imgs/hardhat-logo.svg"
-  />
-  <img
-    align="center"
     alt="foundry"
     height="30" width="40"
     src="imgs/foundry-logo.svg"
+  />
+  <img
+    align="center"
+    alt="hardhat"
+    height="30" width="40"
+    src="imgs/hardhat-logo.svg"
   />
 </div>
 
