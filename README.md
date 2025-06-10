@@ -1,7 +1,7 @@
 ## Hi there, I'm Thiago 🤙
 
 <!-- ===== ABOUT ME ===== -->
-<div>
+<!--<div>
   
   - ⚙️ Information Systems student at Cefet/RJ (Federal Center of Technological Education/Rio de Janeiro)
   
@@ -10,7 +10,7 @@
   - 🌎 Solving real problems through coding
   
 </div>
-<br>
+<br>-->
 <!-- ===== MOST USED LANGUAGES ===== -->
 <div align="center">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorochatr&layout=compact&langs_count=10&theme=dracula&hide=jupyter%20notebook"/>
@@ -18,10 +18,10 @@
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorochatr&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
-<br>
+<!--<br>-->
 
 <!-- ===== LANGUAGES - EMOJIS ===== -->
-### Frontend
+<!--### Frontend
 <div style="display: inline_block" align="left">
   <img
     align="center"
@@ -125,7 +125,7 @@
     height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
   />
-</div>
+</div>-->
 
 <!-- ===== SOCIALS - REACH ME OUT ===== -->
 ## Contact⚡
